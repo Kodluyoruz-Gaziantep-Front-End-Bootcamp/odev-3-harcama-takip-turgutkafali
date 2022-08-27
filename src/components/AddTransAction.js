@@ -51,7 +51,9 @@ const AddTransAction = () => {
                     <label htmlFor="amount">Tutar <br /> (giderler eksi - gelirler artı)</label>
                     <input type="number" value={amount} onChange={(e) => setAmount(e.target.value)} placeholder='Miktar gir...' />
                 </div>
-                <button className="btn">İşlem Ekle</button>
+                <button className={!amount || !text ? 'btn2' : 'btn'} disabled={!amount || !text}>
+                    {!amount || !text ? 'Alanları doldurunuz' : 'İşlem Ekle'}
+                </button>
             </form>
         </>
     )
