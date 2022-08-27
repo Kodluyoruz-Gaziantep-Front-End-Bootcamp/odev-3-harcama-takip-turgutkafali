@@ -1,3 +1,4 @@
+https://harcama-uygulama-1.netlify.app/
 # Week - NULL
 ```Hafta veya Ödev Sayısı (NULL değiştir)```
 
