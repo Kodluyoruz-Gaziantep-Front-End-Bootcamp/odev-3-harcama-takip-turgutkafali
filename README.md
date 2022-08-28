@@ -4,11 +4,9 @@ https://harcama-uygulama-1.netlify.app/
 ```Hafta veya Ödev Sayısı (NULL değiştir)```
 
 # Homework 
-```
-![harcama1](https://user-images.githubusercontent.com/87151960/187090703-57ed45ef-4e99-470a-9609-04285736dde3.gif)
+![harcama](https://user-images.githubusercontent.com/87151960/187091851-06443ac3-3879-4525-a4c6-3dd12581544f.gif)
 
 
-```
 
 ## Homework Description
 
