@@ -5,6 +5,7 @@ https://harcama-uygulama-1.netlify.app/
 
 # Homework 
 ```
+![harcama1](https://user-images.githubusercontent.com/87151960/187090703-57ed45ef-4e99-470a-9609-04285736dde3.gif)
 
 
 ```
